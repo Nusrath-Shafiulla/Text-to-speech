@@ -1,1 +1,1 @@
-# Text-to-speech converter using html,css.javascript
+# Text-to-speech converter using html,css,javascript
